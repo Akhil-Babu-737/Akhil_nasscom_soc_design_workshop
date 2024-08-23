@@ -35,4 +35,5 @@ CMOS INVERTER SIMULATION WITH NGSPICE:
 ![Screenshot from 2024-08-23 00-33-23](https://github.com/user-attachments/assets/fe6ee788-0d6d-40aa-99be-f81081944f08)
 
 MAGIC LAYOUT VIEW TO CMOS INVERTER TO GET THE CELL FILES REFER
+![Screenshot from 2024-08-23 00-25-53](https://github.com/user-attachments/assets/2559fce8-e6ad-435b-b8a2-34f6206d6814)
 
