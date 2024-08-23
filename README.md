@@ -37,3 +37,7 @@ CMOS INVERTER SIMULATION WITH NGSPICE:
 MAGIC LAYOUT VIEW TO CMOS INVERTER TO GET THE CELL FILES REFER
 ![Screenshot from 2024-08-23 00-25-53](https://github.com/user-attachments/assets/2559fce8-e6ad-435b-b8a2-34f6206d6814)
 
+RUNNING THE SPICE FILE IN NGSPICE TOOL BY USING COMMAND NGSPICE SKY130_INV.SPICE
+![Screenshot from 2024-08-23 01-42-17](https://github.com/user-attachments/assets/5f2cd642-91af-4169-8d32-fb7353770f12)
+![Screenshot from 2024-08-23 01-42-34](https://github.com/user-attachments/assets/bb05ef34-10f6-4385-99f5-3e2dd61d4a32)
+
