@@ -53,3 +53,8 @@ DAY 4
 PRE LAYOUT TIMING ANALYSIS AND IMPORTANCE OF GOOD CLOCK TREE:
 ![Screenshot from 2024-08-23 16-01-25](https://github.com/user-attachments/assets/071b9387-92ec-4d2e-8940-27d66baf7f33)
 ![Screenshot from 2024-08-23 16-18-38](https://github.com/user-attachments/assets/4c328a5d-536f-471c-b85e-71039427d3b9)
+
+![Screenshot from 2024-08-23 16-43-12](https://github.com/user-attachments/assets/f330fadc-2b01-43d4-a6c8-6e32be380b24)
+![Screenshot from 2024-08-23 16-48-16](https://github.com/user-attachments/assets/51c5c947-0d74-48e7-a392-d03a96c0966d)
+![Screenshot from 2024-08-23 17-11-22](https://github.com/user-attachments/assets/bac89e78-cf40-438a-9623-332bc24ccab1)
+![Screenshot from 2024-08-23 17-38-55](https://github.com/user-attachments/assets/d9c56474-cdaa-4662-b855-5e829c93c1c4)
