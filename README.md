@@ -58,3 +58,4 @@ PRE LAYOUT TIMING ANALYSIS AND IMPORTANCE OF GOOD CLOCK TREE:
 ![Screenshot from 2024-08-23 16-48-16](https://github.com/user-attachments/assets/51c5c947-0d74-48e7-a392-d03a96c0966d)
 ![Screenshot from 2024-08-23 17-11-22](https://github.com/user-attachments/assets/bac89e78-cf40-438a-9623-332bc24ccab1)
 ![Screenshot from 2024-08-23 17-38-55](https://github.com/user-attachments/assets/d9c56474-cdaa-4662-b855-5e829c93c1c4)
+![Screenshot from 2024-08-23 19-41-35](https://github.com/user-attachments/assets/cd5b4972-bb01-41d5-975d-a0c6c0ee4b87)
