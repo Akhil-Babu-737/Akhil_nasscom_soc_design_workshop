@@ -22,5 +22,8 @@ Opening OpenLane:
 ![Screenshot from 2024-08-21 01-04-04](https://github.com/user-attachments/assets/86ae852b-00c2-4bf9-8ad3-130180d6ad31)
 
 DAY 2
+RUN fLOORPLAN
 ![Screenshot from 2024-08-22 23-39-58](https://github.com/user-attachments/assets/b121aeaf-c21d-4b48-b623-cc0b515e6ca1)
+![Screenshot from 2024-08-21 01-55-06](https://github.com/user-attachments/assets/81d5c06f-dd87-4371-9da8-04ea32b21905)
+![Screenshot from 2024-08-21 01-58-05](https://github.com/user-attachments/assets/2f4bc82b-fc44-4ddc-9c38-8343e1fb8030)
 
