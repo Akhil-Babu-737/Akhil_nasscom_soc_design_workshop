@@ -46,4 +46,4 @@ USING MAGIC TOOL:
 ![Screenshot from 2024-08-23 02-21-21](https://github.com/user-attachments/assets/4f4cbb2e-c855-49a6-8f53-ed10c02ecba9)
 
 TO FIX POLY-9 ERROR IN SKY130 TECH FILE:
-
+![Screenshot from 2024-08-23 03-18-17](https://github.com/user-attachments/assets/b3e35e5d-437d-473c-a9a4-db9b082111db)
