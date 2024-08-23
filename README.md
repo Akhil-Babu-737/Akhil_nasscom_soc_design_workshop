@@ -28,4 +28,4 @@ RUN fLOORPLAN
 ![Screenshot from 2024-08-21 01-58-05](https://github.com/user-attachments/assets/2f4bc82b-fc44-4ddc-9c38-8343e1fb8030)
 
 PLACEMENT IN VLSI DESIGN
-
+![Screenshot from 2024-08-22 01-45-43](https://github.com/user-attachments/assets/d5b2972e-5996-41f7-8c4f-4ab0cfb564b9)
