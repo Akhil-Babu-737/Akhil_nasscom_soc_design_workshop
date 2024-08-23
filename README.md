@@ -42,5 +42,8 @@ RUNNING THE SPICE FILE IN NGSPICE TOOL BY USING COMMAND NGSPICE SKY130_INV.SPICE
 ![Screenshot from 2024-08-23 01-42-34](https://github.com/user-attachments/assets/bb05ef34-10f6-4385-99f5-3e2dd61d4a32)
 
 LEF FILES CREATION:
+USING MAGIC TOOL: 
 ![Screenshot from 2024-08-23 02-21-21](https://github.com/user-attachments/assets/4f4cbb2e-c855-49a6-8f53-ed10c02ecba9)
+
+TO FIX POLY-9 ERROR IN SKY130 TECH FILE:
 
