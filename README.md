@@ -48,3 +48,7 @@ USING MAGIC TOOL:
 TO FIX POLY-9 ERROR IN SKY130 TECH FILE:
 ![Screenshot from 2024-08-23 03-18-17](https://github.com/user-attachments/assets/b3e35e5d-437d-473c-a9a4-db9b082111db)
 ![Screenshot from 2024-08-23 03-20-12](https://github.com/user-attachments/assets/11d04642-8bff-4a4e-8ec3-f2d0f2a3e88b)
+
+DAY 4
+PRE LAYOUT TIMING ANALYSIS AND IMPORTANCE OF GOOD CLOCK TREE:
+
