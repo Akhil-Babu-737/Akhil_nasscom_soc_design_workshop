@@ -32,4 +32,4 @@ PLACEMENT IN VLSI DESIGN
 
 DAY 3
 CMOS INVERTER SIMULATION WITH NGSPICE:
-
+![Screenshot from 2024-08-23 00-33-23](https://github.com/user-attachments/assets/fe6ee788-0d6d-40aa-99be-f81081944f08)
