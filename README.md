@@ -22,5 +22,5 @@ Opening OpenLane:
 ![Screenshot from 2024-08-21 01-04-04](https://github.com/user-attachments/assets/86ae852b-00c2-4bf9-8ad3-130180d6ad31)
 
 DAY 2
-![Screenshot from 2024-08-21 01-54-07](https://github.com/user-attachments/assets/91929208-7f4d-44ae-a04b-c9947b1ba8b1)
+
 
