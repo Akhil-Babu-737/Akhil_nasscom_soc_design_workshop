@@ -51,5 +51,4 @@ TO FIX POLY-9 ERROR IN SKY130 TECH FILE:
 
 DAY 4
 PRE LAYOUT TIMING ANALYSIS AND IMPORTANCE OF GOOD CLOCK TREE:
-![Screenshot from 2024-08-23 15-47-19](https://github.com/user-attachments/assets/32fd3d23-8cc3-4b60-9049-b87382276bb8)
 ![Screenshot from 2024-08-23 16-01-25](https://github.com/user-attachments/assets/071b9387-92ec-4d2e-8940-27d66baf7f33)
