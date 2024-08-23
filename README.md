@@ -11,6 +11,7 @@ Sky130 Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK:
 *SKY_L2 - Introduction to RISC-V
 *SKY_L3 - From Software Applications to Hardware
 
+DAY 1
 
 ![Screenshot 2024-08-09 225621](https://github.com/user-attachments/assets/f7aa98d5-70e6-4b9a-bf19-43696c19ecf7)
 
@@ -19,4 +20,7 @@ Sky130 Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK:
 Opening OpenLane:
 
 ![Screenshot from 2024-08-21 01-04-04](https://github.com/user-attachments/assets/86ae852b-00c2-4bf9-8ad3-130180d6ad31)
+
+DAY 2
+
 
